@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/auyuanet/auyuanet.github.io/static/css/main.d6c3b908.css",
+    "main.js": "/auyuanet/auyuanet.github.io/static/js/main.0aaf9b48.js",
+    "static/js/787.745e99b1.chunk.js": "/auyuanet/auyuanet.github.io/static/js/787.745e99b1.chunk.js",
+    "static/media/Rick-And-Morty-Logo.png": "/auyuanet/auyuanet.github.io/static/media/Rick-And-Morty-Logo.de3062ed18fb4232c53c.png",
+    "static/media/loader.gif": "/auyuanet/auyuanet.github.io/static/media/loader.3542e33136b0cbf71d15.gif",
+    "index.html": "/auyuanet/auyuanet.github.io/index.html",
+    "main.d6c3b908.css.map": "/auyuanet/auyuanet.github.io/static/css/main.d6c3b908.css.map",
+    "main.0aaf9b48.js.map": "/auyuanet/auyuanet.github.io/static/js/main.0aaf9b48.js.map",
+    "787.745e99b1.chunk.js.map": "/auyuanet/auyuanet.github.io/static/js/787.745e99b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6c3b908.css",
+    "static/js/main.0aaf9b48.js"
+  ]
+}
