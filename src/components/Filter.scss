@@ -1,0 +1,22 @@
+@import "../variables/colors.scss";
+
+.filter {
+    width: 100%;
+}
+
+.filter form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem
+}
+
+button[type="submit"] {
+    background-color: $green;
+}
+
+@media (max-width: 576px) {
+    .filter form {
+      flex-direction: column;
+    }
+}

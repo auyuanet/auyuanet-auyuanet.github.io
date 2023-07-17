@@ -1,0 +1,23 @@
+
+@import "../variables/colors.scss";
+
+.App {
+  background-color: $background;
+  padding: 1em;
+}
+
+.App > * {
+  width: 100%
+}
+
+.loader{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loaderImg{
+  height: 5rem;
+}
+
+

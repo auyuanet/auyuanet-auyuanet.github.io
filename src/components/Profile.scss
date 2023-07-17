@@ -1,0 +1,57 @@
+@import "../variables/colors.scss";
+
+.profile{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-container {
+  width: 50%;
+  border-radius: 3px;
+  box-shadow: 4px 4px 4px $green-shadow;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0.5rem;
+  background-color: white;
+  height: fit-content;
+  padding: 1.5rem;
+
+}
+
+.card-img {
+  width: 100%;
+  border-radius: 3px;
+}
+
+.card-title {
+  margin: 0.5rem 5%;
+}
+
+.card-btn {
+  text-align: center;
+  border-radius: 3px;
+  padding: 0.5rem 1rem;
+  background-color: $green;
+  color: white;
+  text-decoration: none;
+  margin: 0.5rem 0.5rem;
+}
+
+.card-list{
+    width: 100%;
+}
+
+.episodes {
+    width: 80%;
+    height: 5em;
+    word-break: break-all;
+}
+
+@media (max-width: 576px) {
+  .card-img {
+    width: 50%
+  }
+}
